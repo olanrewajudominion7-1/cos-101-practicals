@@ -1,0 +1,11 @@
+item= input("Enter Item Name: ")
+qty= int(input("Enter Quantity Bought: "))
+utp= float(input("Enter Unit Price: "))
+tc= utp*qty
+print("==========================")
+print("ITEM NAME:", item)
+print(f"QUANTITY: {qty} units")
+print(f"UNIT PRICE: NGN{utp:,.2f}")
+print(f"TOTAL: NGN{tc:,.2f}")
+print("==========================")
+print("Thank You, Bye!")

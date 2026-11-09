@@ -1,0 +1,5 @@
+Wednesday; 7th October 2026.
+COS 101:
+>Programming is the process of writing instructions that a computer can execute.
+>Python is a programming language used to express instruction in a form that people can read and a python executer can execute. 
+>The Python Interpreter is the software that executes Python instructions.

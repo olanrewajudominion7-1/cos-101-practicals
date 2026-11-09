@@ -1,0 +1,7 @@
+print("the class just began")
+print()
+print("the class just ended")
+print("idek")
+print()
+print("now i know")
+print('##############################')

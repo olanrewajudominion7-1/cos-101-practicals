@@ -1,0 +1,8 @@
+print("PERSONAL INTRODUCTION")
+print("=====================")
+print("Name: Olanrewaju Dominion Mosorire")
+print("Matriculation Number: VUG/SEN/26/16389")
+print("Programme: Software Engineering")
+print("Level: 100")
+print()
+print("I want to learn programming to solve everyday problems.")
